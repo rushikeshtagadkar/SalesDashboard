@@ -22,3 +22,5 @@ The primary objectives of the Sales Dashboard in Excel include:
 ## Conclusion
 
 The Sales Dashboard in Excel provides a powerful tool for sales managers, executives, and stakeholders to gain actionable insights into sales performance and drive business growth. By visualizing key sales metrics and trends in an intuitive and interactive format, the dashboard empowers users to make data-driven decisions and achieve their sales objectives effectively.
+
+![Sales Dashboard](https://github.com/rushikeshtagadkar/SalesDashboard/blob/main/SalesDashboard.png)
